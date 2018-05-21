@@ -1,0 +1,10 @@
+{
+  "Name": "flask-sharex",
+  "DestinationType": "ImageUploader",
+  "RequestURL": "DOMAIN.COM/upload",
+  "FileFormName": "image",
+  "Arguments": {
+    "secret_key": "secret"
+  },
+  "URL": "DOMAIN.COM/static/storage/$json:filename$$json:extension$"
+}
