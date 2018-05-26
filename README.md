@@ -5,7 +5,7 @@
 
 ---
 
-`flask-sharex` is a flask image destination server to upload screenshots to from the ShareX client.The project was made in [Python](https://www.python.org/), with the [Flask](http://flask.pocoo.org/) microframework.
+`flask-sharex` is a flask image destination server to upload screenshots to from the ShareX client. The project was made in [Python](https://www.python.org/), with the [Flask](http://flask.pocoo.org/) microframework.
 
 ## Configuration
 In server.py, configure `storage_folder` and `secret_key` variables to your desired vaules.
